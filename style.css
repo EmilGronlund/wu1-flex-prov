@@ -1,6 +1,8 @@
 nav {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(213, 213, 213);
 
 }
 .nav-list {
@@ -8,4 +10,20 @@ nav {
     list-style: none;
     gap: 2rem;
 
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(182, 182, 182);
+    height: 15rem;
+
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(97, 97, 97);
+    color: white;
 }
