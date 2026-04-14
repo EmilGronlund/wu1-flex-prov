@@ -1,0 +1,1 @@
+Du kan se min dokumentation i mina commit meddelanden.
