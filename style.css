@@ -1,4 +1,11 @@
 nav {
-    
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.nav-list {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
 
 }
